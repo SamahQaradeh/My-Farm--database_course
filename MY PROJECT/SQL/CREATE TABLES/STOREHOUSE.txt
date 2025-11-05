@@ -1,0 +1,9 @@
+create table storehouse (
+ST_ID number(20) not null,
+ST_NAME varchar2(30) ,
+QUANTITY number(20) ,
+BENEFITS varchar2(30),
+E_ID NUMBER(20),
+PRIMARY KEY(ST_ID),
+FOREIGN KEY (E_ID) REFERENCES EMPLOYEE(EMP_ID)
+);

@@ -1,0 +1,5 @@
+insert into plant values(300,'olive tree',15,100,35,'no',10,201);
+insert into plant values(301,'banana tree',5,505,30,'no',13,202);
+insert into plant values(302,'tomato tree',6,150,29,'no',13,203);
+insert into plant values(303,'cherry tree',7,299,32,'no',13,204);
+insert into plant values(304,'pear tree',10,300,31,'no',15,204);

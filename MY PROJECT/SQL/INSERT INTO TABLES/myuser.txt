@@ -1,0 +1,5 @@
+insert into myuser values(100,'ahmad','ah123','nablus',2385106,'ahmad43@gmail.com');
+insert into myuser values(101,'khaled','1257','qalqelya',2384165,'khalid4@gmail.com');
+insert into myuser values(105,'rashid','gh85','bethlehem',2451698,'ra@gmail.com');
+insert into myuser values(153,'qamar','asty','ramallah',2617350,'qamar@gmail.com');
+insert into myuser values(140,'diana','oith','jenin',2146952,'dodo@gmail.com');

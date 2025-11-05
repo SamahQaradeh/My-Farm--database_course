@@ -1,0 +1,5 @@
+insert into storehouse values(1000,'cows food',15,'to animal',19);
+insert into storehouse values(1100,'cats food',10,'to animal',17);
+insert into storehouse values(1200,'chicken food',20,'to animal',15);
+insert into storehouse values(1300,'dogs foot',10,'to animal',15);
+insert into storehouse values(1400,'hourses food',13,'to animal',13);

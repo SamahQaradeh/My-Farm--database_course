@@ -1,0 +1,5 @@
+insert into fertilizir values(201,'Nitrogen fertilizer',5,45,10);
+insert into fertilizir values(202,'Potassium Fertilizer',15,50,10);
+insert into fertilizir values(203,'Phosphorous Fertilizers',8,70,15);
+insert into fertilizir values(204,'Inorganic fertilizer',10,55,13);
+insert into fertilizir values(205,'Organic Fertilizers',20,100,19);

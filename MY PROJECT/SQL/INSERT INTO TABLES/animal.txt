@@ -1,0 +1,5 @@
+insert into animal values(400,'cow',10,500,7,'white',17,1000);
+insert into animal values(401,'chicken',15,200,8,'black',19,1200);
+insert into animal values(402,'dog',4,300,10,'red',19,1300);
+insert into animal values(403,'cat',5,400,6,'brown',17,1100);
+insert into animal values(404,'hourse',12,600,9,'brown',10,1400);

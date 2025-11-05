@@ -1,0 +1,5 @@
+insert into employee values(10,'sara','se12','jenin',2341685,'sa3@gmail.com');
+insert into employee values(15,'mariam','refd','nablus',2337285,'mariam3@gmail.com');
+insert into employee values(17,'noora','s01','qalqelya',2341042,'no4@gmail.com');
+insert into employee values(13,'fatina','874','ramallah',2341075,'fatina@gmail.com');
+insert into employee values(19,'aisha','lec','bethlehem',2339685,'aisha1@gmail.com');

@@ -1,0 +1,5 @@
+insert into plantproduct values(700,'olive',10,5,300,19);
+insert into plantproduct values(701,'banana',15,10,301,17);
+insert into plantproduct values(702,'tomato',30,15,302,15);
+insert into plantproduct values(703,'cherry',12,10,303,17);
+insert into plantproduct values(704,'pear',7,13,304,15);

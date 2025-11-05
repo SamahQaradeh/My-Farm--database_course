@@ -1,0 +1,10 @@
+create table myuser(
+user_ID NUMBER(20) NOT NULL ,
+user_NAME VARCHAR2(30) ,
+user_PASSWORD VARCHAR2(30),
+user_CITY VARCHAR2(30),
+PHONE NUMBER(20),
+EMAIL VARCHAR2(30),
+PRIMARY KEY(user_ID)
+
+);
